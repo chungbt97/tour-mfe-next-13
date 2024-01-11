@@ -47,5 +47,5 @@ However, in the case of Next.js - you need to use <a href="https://www.npmjs.com
 
 ## Reference Points
 
-I do have some VietNamese Version and hopefully these will be of use.
+I do have a VietNamese Version and hopefully these will be of use.
 https://grizzly-handbell-7f1.notion.site/2-MFE-NextJS-13-2fbf2b6008cb4d3ea54caccc038bfecb?pvs=74
