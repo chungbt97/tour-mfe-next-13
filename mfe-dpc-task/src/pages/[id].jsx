@@ -1,4 +1,5 @@
-import "tailwindcss/tailwind.css"
+import Button from "@/components/Button";
+import "tailwindcss/tailwind.css";
 
 export default function TaskDetail() {
   return (
@@ -9,6 +10,7 @@ export default function TaskDetail() {
           <code className="font-mono font-bold">http://localhost:8082/detail</code>
         </p>
       </div>
+      <Button />
       <div className="grid grid-rows-2 grid-cols-3 gap-8 mt-4 mx-2">
         <div>
           <img src="http://localhost:8082/mou-1.jpg" alt="" loading="lazy" />

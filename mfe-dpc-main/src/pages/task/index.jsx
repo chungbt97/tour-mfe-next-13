@@ -1,6 +1,5 @@
 import React from "react";
 import dynamic from "next/dynamic";
-import "tailwindcss/tailwind.css";
 
 const RemoteTaskList = dynamic(() => import("task/taskList"));
 
